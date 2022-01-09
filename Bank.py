@@ -1,3 +1,4 @@
+import os
 import time
 
 #opens or Creates the .txt file, sharing the directory of the scripts#
