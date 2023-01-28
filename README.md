@@ -1,2 +1,2 @@
 # Myrepo
-Mylib
+My library
