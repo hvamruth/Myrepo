@@ -1,0 +1,14 @@
+cd /path/to/your/local/repo
+
+git fetch origin
+
+git pull origin branch-name
+
+# Navigate to your local repository
+cd /path/to/your/local/repo
+
+# Fetch changes from the remote repository
+git fetch origin
+
+# Merge the fetched changes into your current branch
+git pull origin
